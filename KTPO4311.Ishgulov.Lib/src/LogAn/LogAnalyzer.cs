@@ -7,17 +7,7 @@ namespace KTPO4311.Ishgulov.Lib.LogAn
     /// </summary>
     public class LogAnalyzer
     {
-        private readonly IExtensionManager _extensionManager;
         public bool WasLastFileNameValid { get; private set; }
-
-        /// <summary>
-        /// Конструктор с внедрением зависимости
-        /// </summary>
-        /// <param name="extensionManager">Менеджер расширений</param>
-        public LogAnalyzer(IExtensionManager extensionManager)
-        {
-            _extensionManager = extensionManager ?? throw new ArgumentNullException(nameof(extensionManager));
-        }
 
         /// <summary>
         /// Проверка правильности имени файла
@@ -30,7 +20,8 @@ namespace KTPO4311.Ishgulov.Lib.LogAn
 
             try
             {
-                if (!_extensionManager.IsValid(fileName))
+                var mgr = ExtensionManagerFactory.Create();
+                if (!mgr.IsValid(fileName))
                 {
                     return false;
                 }
