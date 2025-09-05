@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTPO4311.Ishgulov.UnitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1c3fd25b56176c640638dab070f68dac517bca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+559c47c922fdd7f37d6dcbeb737504b665aa2e91")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTPO4311.Ishgulov.UnitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTPO4311.Ishgulov.UnitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
