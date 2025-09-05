@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTPO4311.Ishgulov.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54e997901b2ddaa943a8b3831f9390da5a3352bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1c3fd25b56176c640638dab070f68dac517bca")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTPO4311.Ishgulov.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTPO4311.Ishgulov.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

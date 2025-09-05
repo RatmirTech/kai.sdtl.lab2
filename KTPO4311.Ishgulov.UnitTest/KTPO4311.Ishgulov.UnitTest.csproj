@@ -24,4 +24,8 @@
     <ProjectReference Include="..\KTPO4311.Ishgulov.Lib\KTPO4311.Ishgulov.Lib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="src\LogAn\" />
+  </ItemGroup>
+
 </Project>
