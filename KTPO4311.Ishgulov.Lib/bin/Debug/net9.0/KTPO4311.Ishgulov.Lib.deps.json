@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "KTPO4311.Ishgulov.Lib/1.0.0": {
+        "runtime": {
+          "KTPO4311.Ishgulov.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KTPO4311.Ishgulov.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

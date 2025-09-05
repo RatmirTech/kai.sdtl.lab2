@@ -1,0 +1,12 @@
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/bin/Debug/net9.0/KTPO4311.Ishgulov.Lib.deps.json
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/bin/Debug/net9.0/KTPO4311.Ishgulov.Lib.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/bin/Debug/net9.0/KTPO4311.Ishgulov.Lib.pdb
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.AssemblyInfoInputs.cache
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.AssemblyInfo.cs
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.csproj.CoreCompileInputs.cache
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.sourcelink.json
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/refint/KTPO4311.Ishgulov.Lib.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.pdb
+/Users/ratmir/RiderProjects/kai.sdtl.lab1/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/ref/KTPO4311.Ishgulov.Lib.dll
