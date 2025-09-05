@@ -28,7 +28,14 @@ namespace KTPO4311.Ishgulov.Lib.LogAn
             if (string.IsNullOrEmpty(fileName))
                 throw new ArgumentException("Имя файла не может быть пустым");
 
-            if (!_extensionManager.IsValid(fileName))
+            try
+            {
+                if (!_extensionManager.IsValid(fileName))
+                {
+                    return false;
+                }
+            }
+            catch (Exception)
             {
                 return false;
             }

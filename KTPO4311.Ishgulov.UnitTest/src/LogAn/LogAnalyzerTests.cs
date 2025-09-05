@@ -22,17 +22,36 @@ namespace KTPO4311.Ishgulov.UnitTest.LogAn
             bool result = analyzer.IsValidLogFileName("file.txt");
             Assert.That(result, Is.False);
         }
+        
+        [Test]
+        public void IsValidFileName_ExtManagerThrowsException_ReturnsFalse()
+        {
+            var fakeMgr = new FakeExtensionManager 
+            { 
+                WillThrow = new Exception("Ошибка при проверке расширения") 
+            };
+            var analyzer = new LogAnalyzer(fakeMgr);
+
+            bool result = analyzer.IsValidLogFileName("file.ishgulov");
+
+            Assert.That(result, Is.False);
+        }
     }
     
     /// <summary>
     /// поддельный менеджер расширений
     /// </summary>
-    internal class FakeExtensionManager : IExtensionManager
+    public class FakeExtensionManager : IExtensionManager
     {
         public bool WillReturn { get; set; } = true;
+    
+        public Exception WillThrow { get; set; }
 
         public bool IsValid(string fileName)
         {
+            if (WillThrow != null)
+                throw WillThrow;
+
             return WillReturn;
         }
     }
