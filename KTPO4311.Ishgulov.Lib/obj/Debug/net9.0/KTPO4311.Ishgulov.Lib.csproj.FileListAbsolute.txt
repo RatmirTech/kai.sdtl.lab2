@@ -22,3 +22,4 @@
 /Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/refint/KTPO4311.Ishgulov.Lib.dll
 /Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.pdb
 /Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/ref/KTPO4311.Ishgulov.Lib.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.Lib/obj/Debug/net9.0/KTPO4311.Ishgulov.Lib.csproj.AssemblyReference.cache

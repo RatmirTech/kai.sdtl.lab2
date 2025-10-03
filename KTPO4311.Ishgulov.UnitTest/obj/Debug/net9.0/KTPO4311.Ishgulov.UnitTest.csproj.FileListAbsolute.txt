@@ -204,3 +204,11 @@
 /Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/obj/Debug/net9.0/KTPO4311.Ishgulov.UnitTest.pdb
 /Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/obj/Debug/net9.0/KTPO4311.Ishgulov.UnitTest.genruntimeconfig.cache
 /Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/obj/Debug/net9.0/ref/KTPO4311.Ishgulov.UnitTest.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/ratmir/RiderProjects/kai.sdtl.lab2/KTPO4311.Ishgulov.UnitTest/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll
